@@ -1,0 +1,20 @@
+your-project-name/
+  |- src/
+  |   |- main/
+  |   |    |- java/
+  |   |    |    |- com/
+  |   |    |         |- example/
+  |   |    |              |- YourClass.java
+  |   |    |- resources/
+  |   |         |- static/
+  |   |              |- styles/
+  |   |                   |- main.scss
+  |   |                   |- _variables.scss
+  |   |                   |- _mixins.scss
+  |   |                   |- _components.scss
+  |   |- test/
+  |        |- java/
+  |             |- com/
+  |                  |- example/
+  |                        |- YourClassTest.java
+  |- pom.xml
